@@ -7,9 +7,9 @@
 <hr/>
 
 <div align="center">
-  <picture>
-    <img align="center" alt="github-snake" src="https://raw.githubusercontent.com/sineastra/Sineastra/output/github-contribution-grid-snakesvg" />
-  </picture>
+<!--   <picture> -->
+    <img align="center" alt="github-snake" src="https://raw.githubusercontent.com/sineastra/Sineastra/output/github-contribution-grid-snake-dark.svg" />
+<!--   </picture> -->
 </div>
 
 <h4 align="center"><i>Some Stats</i></h4>
