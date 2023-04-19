@@ -8,7 +8,7 @@
 
 <div align="center">
   <picture>
-    <img align="center" alt="github-snake" src="https://raw.githubusercontent.com/sineastra/Sineastra/output/github-contribution-grid-snake-dark.svg" />
+    <img align="center" alt="github-snake" src="https://raw.githubusercontent.com/sineastra/Sineastra/output/github-contribution-grid-snakesvg" />
   </picture>
 </div>
 
