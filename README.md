@@ -66,4 +66,4 @@ Psst, first 2 links are on a free dyno (if no one touched them for a while, init
 
   Many things, Ugh, help.
   
-### <a name="dangerous" href="https://8wtr.short.gy/FYwbuF">Boring zone here.</a>
+### <a name="dangerous" href="https://8wtr.short.gy/FYwbuF">Secret link.</a>
