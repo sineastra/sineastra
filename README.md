@@ -49,9 +49,9 @@ Psst, first 2 links are on a free dyno (if no one touched them for a while, init
 
 - ### **Nameri.bg (ReactJS)** - <a name="nameri.bg" href="https://nameri-bg.vercel.app">Double it and give it to the next project.</a>
 
-- ### **Screenmood Extension** - <a name="ScreenmoodExtension" href="https://chrome.google.com/webstore/detail/screenmood-%E2%80%94-screen-captu/gneepehahiglangakfifnpdlppijdkck">Also leg extension.</a>
+<!-- - ### **Screenmood Extension** - <a name="ScreenmoodExtension" href="https://chrome.google.com/webstore/detail/screenmood-%E2%80%94-screen-captu/gneepehahiglangakfifnpdlppijdkck">Also leg extension.</a> -->
 
-- ### **Screenmood NextJS WebSite** - <a name="Screenmood" href="https://app.screenmood.com">Bear.</a>
+<!-- - ### **Screenmood NextJS WebSite** - <a name="Screenmood" href="https://app.screenmood.com">Bear.</a> -->
 
 - ### **Gauzy Teams** - <a name="gauzyTeams" href="https://app.ever.team/auth/passcode">I am a hottie :):</a>
 
@@ -62,8 +62,6 @@ Psst, first 2 links are on a free dyno (if no one touched them for a while, init
 <hr/>
 
 -  <h3>🔭 I’m currently working on:
-  ~~a Large Chrome Extension and Next JS website with a Nest JS back-end & On a Healthcare Mongoose/React project.~~ 
-
-  Many things, Ugh, help.
+  React Native (Expo) android/ios app + nest JS back-end and a React/Express Healthcare Data Analysis app.
   
 ### <a name="dangerous" href="https://www.instagram.com/kostadinov_o/">Secret link.</a>
