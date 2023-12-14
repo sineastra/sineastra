@@ -53,7 +53,7 @@ Psst, first 2 links are on a free dyno (if no one touched them for a while, init
 
 - ### **Screenmood NextJS WebSite** - <a name="Screenmood" href="https://app.screenmood.com">Bear.</a>
 
-- ### **Gauzy Teams** - <a name="gauzyTeams" href="https://app.ever.team">I am a hottie :):</a>
+- ### **Gauzy Teams** - <a name="gauzyTeams" href="https://app.ever.team/auth/passcode">I am a hottie :):</a>
 
 - ### **Affordify.io** - <a name="affordify" href="https://affordify.io">World War 4 pictures.</a>
 
