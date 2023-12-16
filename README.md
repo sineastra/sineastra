@@ -1,4 +1,4 @@
-<h1 align="center">&nbsp; Hi there!&nbsp; :wave: . </h1>
+<h1 align="center">&nbsp; Hi there!&nbsp; :wave:  </h1>
 
 <p align="center"><img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" /></p>
 <h1 align="center">My name is Orfey K. and I am a Full Stack Web Developer,</h1>
