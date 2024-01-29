@@ -18,7 +18,7 @@
 
 <div align="center">
   <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=Sineastra&theme=gotham&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sineastra&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&show_icons=true"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sineastra&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&show_icons=true"/>  -->
 </div>
 
 <h4 align="center"><i>As well as..</i></h4>
