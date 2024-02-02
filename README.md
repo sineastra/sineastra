@@ -1,7 +1,7 @@
 <h1 align="center">&nbsp; Hi there!&nbsp; :wave:  </h1>
 
 <p align="center"><img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" /></p>
-<h1 align="center">My name is Orfey Kostadinov and I am a Full Stack Web Developer,</h1>
+<h1 align="center">My name is Orfey Kostadinov and I am a Full Stack Software Engineer,</h1>
 <p align="center">who likes functional programming, clean and resuable code and performance. I'm also pretty lazy, so I always look for the simplest possible solution. And by pretty lazy I mean <a name="dangerous" href="https://ibb.co/chR58X9/">this</a> kind of lazy.</p>
 
 <hr/>
