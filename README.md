@@ -27,13 +27,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3,754 hrs 44 mins
+Total Time: 3,762 hrs 16 mins
 
 TypeScript        2,025 hrs 46 mins>>>>>>>>>>>>>------------   53.84 %
 JavaScript        975 hrs 39 mins >>>>>>-------------------   25.93 %
 HTML              173 hrs 47 mins >------------------------   04.62 %
 SCSS              161 hrs 29 mins >------------------------   04.29 %
 CSS               153 hrs 48 mins >------------------------   04.09 %
+JSX               151 hrs 37 mins >------------------------   04.03 %
+JSON              49 hrs 17 mins  -------------------------   01.31 %
+Bash              11 hrs 50 mins  -------------------------   00.31 %
+Text              11 hrs 5 mins   -------------------------   00.29 %
+Markdown          10 hrs 18 mins  -------------------------   00.27 %
 ```
 
 <!--END_SECTION:waka-->
