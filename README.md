@@ -60,7 +60,7 @@ Psst, first 2 links are on a free dyno (if no one touched them for a while, init
 
 - ### **Gauzy Teams** - <a name="gauzyTeams" href="https://app.ever.team/auth/passcode">I am a hottie :):</a>
 
-- ### **Affordify.io** - <a name="affordify" href="https://affordify.io">World War 4 pictures.</a>
+- ### **Aimfina.com** - <a name="aimfina" href="affordify.io">World War 4 pictures.</a>
 
 -  ### **Also, several other private projects, which I cannot link here. Cus they are private. Very private.**
 
