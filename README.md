@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" /></p>
 <h1 align="center">My name is Orfey Kostadinov and I am a Full Stack Software Engineer,</h1>
-<p align="center">with years of experience in many aspects of software development, such as data structure, architecture design, code structure and review, end-to-end application development, etc. I like functional programming, clean and resuable code and performance. I'm also pretty lazy, so I always look for the simplest possible solution. And by pretty lazy I mean <a name="dangerous" href="https://ibb.co/chR58X9/">this</a> kind of lazy.</p>
+<p align="center">with years of experience in many aspects of software development. I like functional programming, clean and resuable code and performance. I'm also pretty lazy, so I always look for the simplest possible solution. And by pretty lazy I mean <a name="dangerous" href="https://ibb.co/chR58X9/">this</a> kind of lazy.</p>
 
 <hr/>
 
