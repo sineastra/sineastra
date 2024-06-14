@@ -50,19 +50,19 @@ Markdown          10 hrs 20 mins  -------------------------   00.24 %
 
 Psst, first 2 links are on a free dyno (if no one touched them for a while, initial loading of API is slow... half a minute maybe minute. Have little patience, wont you?
 
-- ### **Shopy (Angular)** - <a name="shopy" href="https://angular-bice-theta.vercel.app/">Just an unicorn.</a>
+- ### **Shopy (Angular)** - <a name="shopy" href="https://angular-bice-theta.vercel.app/">Link</a>
 
-- ### **Nameri.bg (ReactJS)** - <a name="nameri.bg" href="https://nameri-bg.vercel.app">Double it and give it to the next project.</a>
+- ### **Nameri.bg (ReactJS)** - <a name="nameri.bg" href="https://nameri-bg.vercel.app">Link</a>
 
 <!-- - ### **Screenmood Extension** - <a name="ScreenmoodExtension" href="https://chrome.google.com/webstore/detail/screenmood-%E2%80%94-screen-captu/gneepehahiglangakfifnpdlppijdkck">Also leg extension.</a> -->
 
 <!-- - ### **Screenmood NextJS WebSite** - <a name="Screenmood" href="https://app.screenmood.com">Bear.</a> -->
 
-- ### **Gauzy Teams** - <a name="gauzyTeams" href="https://app.ever.team/auth/passcode">I am a hottie :):</a>
+- ### **Gauzy Teams** - <a name="gauzyTeams" href="https://app.ever.team/auth/passcode">Link</a>
 
-- ### **Aimfina.com** - <a name="aimfina" href="https://aimfina.com">World War 4 pictures.</a>
+- ### **Aimfina.com** - <a name="aimfina" href="https://aimfina.com">Link</a>
 
--  ### **Also, several other private projects, which I cannot link here. Cus they are private. Very private.**
+-  ### **However, most of my work and the things i can and do are private. I cannot share them here or anywhere for that matter**
 
 <hr/>
 
