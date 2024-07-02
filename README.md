@@ -67,4 +67,4 @@ Psst, first 2 links are on a free dyno (if no one touched them for a while, init
 <hr/>
 
 -  <h3>🔭 I’m currently working on:
-  React Native (Expo) android/ios app + nest JS back-end and a React/Express Healthcare Data Analysis app.
+  React Native (Expo) android/ios app + nest JS back-end/PostgreSQL DB using TypeORM
