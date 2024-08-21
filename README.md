@@ -14,7 +14,7 @@
 
 <h4 align="center"><i>Some Stats</i></h4>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=annoyedorange"></img></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=sineastra"></img></p>
 
 <div align="center">
   <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=annoyedorange&theme=gotham&hide_border=true" />
