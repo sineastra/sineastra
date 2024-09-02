@@ -8,7 +8,7 @@
 
 <div align="center">
 <!--   <picture> -->
-    <img align="center" alt="github-snake" src="https://raw.githubusercontent.com/annoyedorange/annoyedorange/output/github-contribution-grid-snake-dark.svg" />
+    <img align="center" alt="github-snake" src="https://raw.githubusercontent.com/sineastra/sineastra/output/github-contribution-grid-snake-dark.svg" />
 <!--   </picture> -->
 </div>
 
@@ -17,7 +17,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=sineastra"></img></p>
 
 <div align="center">
-  <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=annoyedorange&theme=gotham&hide_border=true" />
+  <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=sineastra&theme=gotham&hide_border=true" />
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sineastra&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&show_icons=true"/>  -->
 </div>
 
