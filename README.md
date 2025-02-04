@@ -62,6 +62,8 @@ Psst, first 2 links are on a free dyno (if no one touched them for a while, init
 
 - ### **Aimfina.com** - <a name="aimfina" href="https://aimfina.com">Link</a>
 
+- ### **Ever Rec** - <a name="everRec" href="https://github.com/ever-co/ever-rec">Link</a> - Core part of this project, have like 33% of the project written by me.
+
 -  ### **However, most of my work and the things i can and do are private. I cannot share them here or anywhere for that matter**
 
 <hr/>
